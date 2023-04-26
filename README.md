@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the key to Employee Happiness?](https://vinaykumarmoluguri.medium.com/what-is-the-key-to-employee-happiness-5474a6740f9c?source=rss-557dc798f49e------2)
 - [Tesla’s Applications of Big Data and How it Powers Self-Driven Cars](https://vinaykumarmoluguri.medium.com/teslas-applications-of-big-data-and-how-it-powers-self-driven-cars-5c72cc16cf7?source=rss-557dc798f49e------2)
 - [Twitter Data Analysis with NLP Techniques using R](https://vinaykumarmoluguri.medium.com/twitter-data-analysis-with-nlp-techniques-using-r-b8de32e4b68?source=rss-557dc798f49e------2)
 - [Speech Emotion Detection System using Python](https://vinaykumarmoluguri.medium.com/speech-emotion-detection-system-using-python-758d7dd90cb9?source=rss-557dc798f49e------2)
 - [Precision vs. Recall in Machine Learning: Understanding the Tradeoff](https://vinaykumarmoluguri.medium.com/precision-vs-recall-in-machine-learning-understanding-the-tradeoff-4f6ca12d6ca4?source=rss-557dc798f49e------2)
-- [Data Visualization or Infographic?](https://vinaykumarmoluguri.medium.com/data-visualization-or-infographic-cea3d1a592e8?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

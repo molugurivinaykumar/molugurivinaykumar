@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Business Analyst Interview at a Healthcare Company in the US: 10 Questions and Answers](https://vinaykumarmoluguri.medium.com/my-business-analyst-interview-at-a-healthcare-company-in-the-us-10-questions-and-answers-9f269f834af1?source=rss-557dc798f49e------2)
 - [Realistic Voice Cloning&lpar;RVC&rpar; using AI to create song covers](https://vinaykumarmoluguri.medium.com/realistic-voice-cloning-rvc-using-ai-to-create-song-covers-63f73775ba5c?source=rss-557dc798f49e------2)
 - [Create Chrome Extension within seconds using SMOL AI](https://vinaykumarmoluguri.medium.com/create-chrome-extension-within-seconds-using-smol-ai-e3a21709ce2f?source=rss-557dc798f49e------2)
 - [How To Use Midjourney: A Step-by-Step Guide to AI Image Generation](https://vinaykumarmoluguri.medium.com/how-to-use-midjourney-a-step-by-step-guide-to-ai-image-generation-fd1cc19d072?source=rss-557dc798f49e------2)
 - [The Rapid Evolution of Generative AI: Research Breakthroughs and Societal Impacts](https://vinaykumarmoluguri.medium.com/the-rapid-evolution-of-generative-ai-research-breakthroughs-and-societal-impacts-dc33971bd03?source=rss-557dc798f49e------2)
-- [Building a Web Scraper Using Python](https://vinaykumarmoluguri.medium.com/building-a-web-scraper-using-python-3430f13a0879?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

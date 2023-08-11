@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Teachable Machine AI: Step-By-Step Tutorial Included](https://vinaykumarmoluguri.medium.com/googles-teachable-machine-ai-step-by-step-tutorial-included-6a7200199932?source=rss-557dc798f49e------2)
 - [30 ChatGPT Prompts for Business Analysts &lpar;Tried and Tested&rpar;](https://vinaykumarmoluguri.medium.com/30-chatgpt-prompts-for-business-analysts-tried-and-tested-b7611abc9137?source=rss-557dc798f49e------2)
 - [My Business Analyst Interview at a Healthcare Company in the US: 10 Questions and Answers](https://vinaykumarmoluguri.medium.com/my-business-analyst-interview-at-a-healthcare-company-in-the-us-10-questions-and-answers-9f269f834af1?source=rss-557dc798f49e------2)
 - [Realistic Voice Cloning&lpar;RVC&rpar; using AI to create song covers](https://vinaykumarmoluguri.medium.com/realistic-voice-cloning-rvc-using-ai-to-create-song-covers-63f73775ba5c?source=rss-557dc798f49e------2)
 - [Create Chrome Extension within seconds using SMOL AI](https://vinaykumarmoluguri.medium.com/create-chrome-extension-within-seconds-using-smol-ai-e3a21709ce2f?source=rss-557dc798f49e------2)
-- [How To Use Midjourney: A Step-by-Step Guide to AI Image Generation](https://vinaykumarmoluguri.medium.com/how-to-use-midjourney-a-step-by-step-guide-to-ai-image-generation-fd1cc19d072?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

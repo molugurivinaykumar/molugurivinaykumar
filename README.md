@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 9&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-9-1b016733adea?source=rss-557dc798f49e------2)
 - [10 ChatGPT Plugins to improve your workflow](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-e102d63cc79c?source=rss-557dc798f49e------2)
 - [Tripplanner.ai: Let AI plan your dream trip](https://vinaykumarmoluguri.medium.com/tripplanner-ai-let-ai-plan-your-dream-trip-a0293fea902?source=rss-557dc798f49e------2)
 - [Google’s Teachable Machine AI: Step-By-Step Tutorial Included](https://vinaykumarmoluguri.medium.com/googles-teachable-machine-ai-step-by-step-tutorial-included-6a7200199932?source=rss-557dc798f49e------2)
 - [30 ChatGPT Prompts for Business Analysts &lpar;Tried and Tested&rpar;](https://vinaykumarmoluguri.medium.com/30-chatgpt-prompts-for-business-analysts-tried-and-tested-b7611abc9137?source=rss-557dc798f49e------2)
-- [My Business Analyst Interview at a Healthcare Company in the US: 10 Questions and Answers](https://vinaykumarmoluguri.medium.com/my-business-analyst-interview-at-a-healthcare-company-in-the-us-10-questions-and-answers-9f269f834af1?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

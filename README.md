@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 6&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-6-46a0c9d94f10?source=rss-557dc798f49e------2)
 - [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 5&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-5-d3c417ca2512?source=rss-557dc798f49e------2)
 - [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 5&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-5-fcb31365e8e0?source=rss-557dc798f49e------2)
 - [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 4&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-4-ad43802407fb?source=rss-557dc798f49e------2)
 - [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 4&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-4-8f1390258ec2?source=rss-557dc798f49e------2)
-- [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 3&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-3-715bcbd3e5aa?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

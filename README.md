@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching AI to Recognize Drawings with Google’s Quick, Draw!](https://vinaykumarmoluguri.medium.com/teaching-ai-to-recognize-drawings-with-googles-quick-draw-e417f5b17ec1?source=rss-557dc798f49e------2)
 - [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 7&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-7-7453ecc21caf?source=rss-557dc798f49e------2)
 - [Creating Color Palettes with AI: Exploring Google’s Palette Tool](https://vinaykumarmoluguri.medium.com/creating-color-palettes-with-ai-exploring-googles-palette-tool-bf04e227882a?source=rss-557dc798f49e------2)
 - [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 7&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-7-bd817def5e38?source=rss-557dc798f49e------2)
 - [Exploring LaMDA: Google’s Conversational AI Model](https://vinaykumarmoluguri.medium.com/exploring-lamda-googles-conversational-ai-model-ca100636340d?source=rss-557dc798f49e------2)
-- [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 6&rpar;](https://medium.com/aimonks/10-latest-ai-tools-forget-chatgpt-vol-6-faf3068150e0?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

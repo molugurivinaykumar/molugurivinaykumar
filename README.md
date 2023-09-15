@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring 3D Scene Reconstruction with Google’s Scene Exploration](https://vinaykumarmoluguri.medium.com/exploring-3d-scene-reconstruction-with-googles-scene-exploration-ac96ce9a33a8?source=rss-557dc798f49e------2)
 - [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 8&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-8-2c7488ce1932?source=rss-557dc798f49e------2)
 - [Achieving Realistic Skin Tone Rendering with Google’s Real Tone](https://vinaykumarmoluguri.medium.com/achieving-realistic-skin-tone-rendering-with-googles-real-tone-8a076de61e3a?source=rss-557dc798f49e------2)
 - [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 8&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-8-e2bb799d5768?source=rss-557dc798f49e------2)
 - [Teaching AI to Recognize Drawings with Google’s Quick, Draw!](https://vinaykumarmoluguri.medium.com/teaching-ai-to-recognize-drawings-with-googles-quick-draw-e417f5b17ec1?source=rss-557dc798f49e------2)
-- [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 7&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-7-7453ecc21caf?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

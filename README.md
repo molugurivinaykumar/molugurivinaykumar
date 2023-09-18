@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 9&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-9-37ab3930946c?source=rss-557dc798f49e------2)
 - [Bridging Communication Gaps with Google’s Shared Understanding](https://vinaykumarmoluguri.medium.com/bridging-communication-gaps-with-googles-shared-understanding-556e569e2b31?source=rss-557dc798f49e------2)
 - [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 2&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-2-3bc9478f75ca?source=rss-557dc798f49e------2)
 - [Exploring 3D Scene Reconstruction with Google’s Scene Exploration](https://vinaykumarmoluguri.medium.com/exploring-3d-scene-reconstruction-with-googles-scene-exploration-ac96ce9a33a8?source=rss-557dc798f49e------2)
 - [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 8&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-8-2c7488ce1932?source=rss-557dc798f49e------2)
-- [Achieving Realistic Skin Tone Rendering with Google’s Real Tone](https://vinaykumarmoluguri.medium.com/achieving-realistic-skin-tone-rendering-with-googles-real-tone-8a076de61e3a?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

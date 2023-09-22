@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 10&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-10-836ae76f4279?source=rss-557dc798f49e------2)
 - [Experimenting with Model Changes using Google’s What-If Tool](https://vinaykumarmoluguri.medium.com/experimenting-with-model-changes-using-googles-what-if-tool-d1a8509f2182?source=rss-557dc798f49e------2)
 - [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 10&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-10-be2ec675a41d?source=rss-557dc798f49e------2)
 - [Turning Words into Pictures with Google’s Text-to-Image AI](https://vinaykumarmoluguri.medium.com/turning-words-into-pictures-with-googles-text-to-image-ai-187304884303?source=rss-557dc798f49e------2)
 - [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 9&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-9-37ab3930946c?source=rss-557dc798f49e------2)
-- [Bridging Communication Gaps with Google’s Shared Understanding](https://vinaykumarmoluguri.medium.com/bridging-communication-gaps-with-googles-shared-understanding-556e569e2b31?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

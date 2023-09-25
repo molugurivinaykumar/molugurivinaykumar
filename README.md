@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Imagen: Google’s Next-Gen AI for Text-to-Image Generation](https://vinaykumarmoluguri.medium.com/imagen-googles-next-gen-ai-for-text-to-image-generation-1b444940f9e3?source=rss-557dc798f49e------2)
 - [Codey: Google’s Impressive AI Tool for Code Generation](https://vinaykumarmoluguri.medium.com/codey-googles-impressive-ai-tool-for-code-generation-166741769590?source=rss-557dc798f49e------2)
 - [Getting Creative with Xiaoice — Microsoft’s Versatile AI Chatbot](https://vinaykumarmoluguri.medium.com/getting-creative-with-xiaoice-microsofts-versatile-ai-chatbot-60825622d291?source=rss-557dc798f49e------2)
 - [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 10&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-10-836ae76f4279?source=rss-557dc798f49e------2)
 - [Experimenting with Model Changes using Google’s What-If Tool](https://vinaykumarmoluguri.medium.com/experimenting-with-model-changes-using-googles-what-if-tool-d1a8509f2182?source=rss-557dc798f49e------2)
-- [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 10&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-10-be2ec675a41d?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Google Cloud’s Pathways — An Easy Onramp to ML](https://vinaykumarmoluguri.medium.com/exploring-google-clouds-pathways-an-easy-onramp-to-ml-23ccf9188caf?source=rss-557dc798f49e------2)
 - [Democratizing AI: Exploring Google’s Vertex AI Generative Studio](https://vinaykumarmoluguri.medium.com/democratizing-ai-exploring-googles-vertex-ai-generative-studio-27db18bcf6a1?source=rss-557dc798f49e------2)
 - [SynthID: Google’s Clever AI Tool to Watermark AI Images](https://vinaykumarmoluguri.medium.com/synthid-googles-clever-ai-tool-to-watermark-ai-images-e2ad4cf684f5?source=rss-557dc798f49e------2)
 - [Introducing PaLM 2 — Google’s Massive New AI Language Model](https://vinaykumarmoluguri.medium.com/introducing-palm-2-googles-massive-new-ai-language-model-67e914ba12a0?source=rss-557dc798f49e------2)
 - [MusicLM: Google’s AI Maestro for Music Composition](https://vinaykumarmoluguri.medium.com/musiclm-googles-ai-maestro-for-music-composition-7d2de1050a68?source=rss-557dc798f49e------2)
-- [Imagen: Google’s Next-Gen AI for Text-to-Image Generation](https://vinaykumarmoluguri.medium.com/imagen-googles-next-gen-ai-for-text-to-image-generation-1b444940f9e3?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

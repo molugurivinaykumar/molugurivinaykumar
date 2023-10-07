@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI in Healthcare Diagnostics: Advancements in Medical Image Analysis](https://vinaykumarmoluguri.medium.com/ai-in-healthcare-diagnostics-advancements-in-medical-image-analysis-b322537b4d7a?source=rss-557dc798f49e------2)
 - [AI in Natural Language Generation: From GPT-3 to Custom Language Models](https://vinaykumarmoluguri.medium.com/ai-in-natural-language-generation-from-gpt-3-to-custom-language-models-a6c11cbbd61c?source=rss-557dc798f49e------2)
 - [Federated Learning: Decentralized Machine Learning for Privacy-Preserving Applications](https://vinaykumarmoluguri.medium.com/federated-learning-decentralized-machine-learning-for-privacy-preserving-applications-33b90754baf5?source=rss-557dc798f49e------2)
 - [Explainable AI: Bridging the Gap Between Complexity and Comprehensibility](https://vinaykumarmoluguri.medium.com/explainable-ai-bridging-the-gap-between-complexity-and-comprehensibility-8d11b215923e?source=rss-557dc798f49e------2)
 - [10 Data Analysis Projects to Land Your First Analytics Job](https://vinaykumarmoluguri.medium.com/10-data-analysis-projects-to-land-your-first-analytics-job-cba9c83da991?source=rss-557dc798f49e------2)
-- [Exploring Google Cloud’s Pathways — An Easy Onramp to ML](https://vinaykumarmoluguri.medium.com/exploring-google-clouds-pathways-an-easy-onramp-to-ml-23ccf9188caf?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

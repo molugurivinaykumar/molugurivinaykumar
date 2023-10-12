@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Agent Reinforcement Learning: Collaborative AI Decision-Making](https://vinaykumarmoluguri.medium.com/multi-agent-reinforcement-learning-collaborative-ai-decision-making-e2c23f6f116d?source=rss-557dc798f49e------2)
 - [AI in Cybersecurity: Detecting and Preventing Advanced Threats](https://vinaykumarmoluguri.medium.com/ai-in-cybersecurity-detecting-and-preventing-advanced-threats-291f9de8bc90?source=rss-557dc798f49e------2)
 - [Reinforcement Learning in Robotics: Teaching Machines to Manipulate and Navigate](https://vinaykumarmoluguri.medium.com/reinforcement-learning-in-robotics-teaching-machines-to-manipulate-and-navigate-a1f106215d6c?source=rss-557dc798f49e------2)
 - [AI and Quantum Computing: Exploring the Synergy of Two Cutting-Edge Technologies](https://vinaykumarmoluguri.medium.com/ai-and-quantum-computing-exploring-the-synergy-of-two-cutting-edge-technologies-1dd1549a53ef?source=rss-557dc798f49e------2)
 - [AI for Drug Discovery: Accelerating Pharmaceutical Research](https://vinaykumarmoluguri.medium.com/ai-for-drug-discovery-accelerating-pharmaceutical-research-0bc259141f26?source=rss-557dc798f49e------2)
-- [AI in Healthcare Diagnostics: Advancements in Medical Image Analysis](https://vinaykumarmoluguri.medium.com/ai-in-healthcare-diagnostics-advancements-in-medical-image-analysis-b322537b4d7a?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

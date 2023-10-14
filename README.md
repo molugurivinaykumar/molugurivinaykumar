@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exemplar-based Learning: Leveraging Specific Instances for Advanced Machine Learning](https://vinaykumarmoluguri.medium.com/exemplar-based-learning-leveraging-specific-instances-for-advanced-machine-learning-5f80f6e7bf0c?source=rss-557dc798f49e------2)
 - [AI in Climate Science: Analyzing Complex Environmental Data for Insights](https://vinaykumarmoluguri.medium.com/ai-in-climate-science-analyzing-complex-environmental-data-for-insights-251a4b58ab53?source=rss-557dc798f49e------2)
 - [Multi-Agent Reinforcement Learning: Collaborative AI Decision-Making](https://vinaykumarmoluguri.medium.com/multi-agent-reinforcement-learning-collaborative-ai-decision-making-e2c23f6f116d?source=rss-557dc798f49e------2)
 - [AI in Cybersecurity: Detecting and Preventing Advanced Threats](https://vinaykumarmoluguri.medium.com/ai-in-cybersecurity-detecting-and-preventing-advanced-threats-291f9de8bc90?source=rss-557dc798f49e------2)
 - [Reinforcement Learning in Robotics: Teaching Machines to Manipulate and Navigate](https://vinaykumarmoluguri.medium.com/reinforcement-learning-in-robotics-teaching-machines-to-manipulate-and-navigate-a1f106215d6c?source=rss-557dc798f49e------2)
-- [AI and Quantum Computing: Exploring the Synergy of Two Cutting-Edge Technologies](https://vinaykumarmoluguri.medium.com/ai-and-quantum-computing-exploring-the-synergy-of-two-cutting-edge-technologies-1dd1549a53ef?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

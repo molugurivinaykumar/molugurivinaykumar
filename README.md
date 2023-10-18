@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Learning: A Paradigm Shift in Machine Learning](https://vinaykumarmoluguri.medium.com/self-supervised-learning-a-paradigm-shift-in-machine-learning-aacaa9c8a539?source=rss-557dc798f49e------2)
 - [Meta-Learning: Training Models That Learn How to Learn](https://vinaykumarmoluguri.medium.com/meta-learning-training-models-that-learn-how-to-learn-e75dbc1196f7?source=rss-557dc798f49e------2)
 - [Exemplar-based Learning: Leveraging Specific Instances for Advanced Machine Learning](https://vinaykumarmoluguri.medium.com/exemplar-based-learning-leveraging-specific-instances-for-advanced-machine-learning-5f80f6e7bf0c?source=rss-557dc798f49e------2)
 - [AI in Climate Science: Analyzing Complex Environmental Data for Insights](https://vinaykumarmoluguri.medium.com/ai-in-climate-science-analyzing-complex-environmental-data-for-insights-251a4b58ab53?source=rss-557dc798f49e------2)
 - [Multi-Agent Reinforcement Learning: Collaborative AI Decision-Making](https://vinaykumarmoluguri.medium.com/multi-agent-reinforcement-learning-collaborative-ai-decision-making-e2c23f6f116d?source=rss-557dc798f49e------2)
-- [AI in Cybersecurity: Detecting and Preventing Advanced Threats](https://vinaykumarmoluguri.medium.com/ai-in-cybersecurity-detecting-and-preventing-advanced-threats-291f9de8bc90?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

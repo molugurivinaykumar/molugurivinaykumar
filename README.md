@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Adversarial Training in Machine Learning: Defending Against Adversarial Attacks](https://vinaykumarmoluguri.medium.com/adversarial-training-in-machine-learning-defending-against-adversarial-attacks-39a5efd46c59?source=rss-557dc798f49e------2)
 - [Few-Shot Learning: Teaching Machines to Generalize from a Few Examples](https://vinaykumarmoluguri.medium.com/few-shot-learning-teaching-machines-to-generalize-from-a-few-examples-1b5648bcde8f?source=rss-557dc798f49e------2)
 - [Zero-Shot Learning: Extending Machine Learning Models Beyond Trained Classes](https://vinaykumarmoluguri.medium.com/zero-shot-learning-extending-machine-learning-models-beyond-trained-classes-0020bb64e4eb?source=rss-557dc798f49e------2)
 - [Differential Privacy in Machine Learning: Protecting Sensitive Data in Learning Algorithms](https://vinaykumarmoluguri.medium.com/differential-privacy-in-machine-learning-protecting-sensitive-data-in-learning-algorithms-519e2967e3c6?source=rss-557dc798f49e------2)
 - [Self-Supervised Learning: A Paradigm Shift in Machine Learning](https://vinaykumarmoluguri.medium.com/self-supervised-learning-a-paradigm-shift-in-machine-learning-aacaa9c8a539?source=rss-557dc798f49e------2)
-- [Meta-Learning: Training Models That Learn How to Learn](https://vinaykumarmoluguri.medium.com/meta-learning-training-models-that-learn-how-to-learn-e75dbc1196f7?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

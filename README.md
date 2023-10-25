@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning for Graphs: Applications in Social Network Analysis and Bioinformatics](https://vinaykumarmoluguri.medium.com/deep-learning-for-graphs-applications-in-social-network-analysis-and-bioinformatics-6c70a010c664?source=rss-557dc798f49e------2)
 - [Ensemble Learning: Combining Models for Superior Predictive Performance](https://vinaykumarmoluguri.medium.com/ensemble-learning-combining-models-for-superior-predictive-performance-0cf4ef6095a0?source=rss-557dc798f49e------2)
 - [Transfer Learning in NLP: Fine-Tuning Pretrained Language Models for Specific Tasks](https://vinaykumarmoluguri.medium.com/transfer-learning-in-nlp-fine-tuning-pretrained-language-models-for-specific-tasks-7641d3698c62?source=rss-557dc798f49e------2)
 - [Adversarial Training in Machine Learning: Defending Against Adversarial Attacks](https://vinaykumarmoluguri.medium.com/adversarial-training-in-machine-learning-defending-against-adversarial-attacks-39a5efd46c59?source=rss-557dc798f49e------2)
 - [Few-Shot Learning: Teaching Machines to Generalize from a Few Examples](https://vinaykumarmoluguri.medium.com/few-shot-learning-teaching-machines-to-generalize-from-a-few-examples-1b5648bcde8f?source=rss-557dc798f49e------2)
-- [Zero-Shot Learning: Extending Machine Learning Models Beyond Trained Classes](https://vinaykumarmoluguri.medium.com/zero-shot-learning-extending-machine-learning-models-beyond-trained-classes-0020bb64e4eb?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

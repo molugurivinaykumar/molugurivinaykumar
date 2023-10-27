@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Attention Mechanisms in Deep Learning: Enhancing Neural Network Capabilities](https://vinaykumarmoluguri.medium.com/attention-mechanisms-in-deep-learning-enhancing-neural-network-capabilities-d2a4519426be?source=rss-557dc798f49e------2)
 - [Capsule Networks: The Next Frontier in Deep Learning Architectures](https://vinaykumarmoluguri.medium.com/capsule-networks-the-next-frontier-in-deep-learning-architectures-e8d580197a78?source=rss-557dc798f49e------2)
 - [Deep Learning for Graphs: Applications in Social Network Analysis and Bioinformatics](https://vinaykumarmoluguri.medium.com/deep-learning-for-graphs-applications-in-social-network-analysis-and-bioinformatics-6c70a010c664?source=rss-557dc798f49e------2)
 - [Ensemble Learning: Combining Models for Superior Predictive Performance](https://vinaykumarmoluguri.medium.com/ensemble-learning-combining-models-for-superior-predictive-performance-0cf4ef6095a0?source=rss-557dc798f49e------2)
 - [Transfer Learning in NLP: Fine-Tuning Pretrained Language Models for Specific Tasks](https://vinaykumarmoluguri.medium.com/transfer-learning-in-nlp-fine-tuning-pretrained-language-models-for-specific-tasks-7641d3698c62?source=rss-557dc798f49e------2)
-- [Adversarial Training in Machine Learning: Defending Against Adversarial Attacks](https://vinaykumarmoluguri.medium.com/adversarial-training-in-machine-learning-defending-against-adversarial-attacks-39a5efd46c59?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

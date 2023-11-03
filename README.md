@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning for Remote Sensing: Advancements in Earth Observation](https://vinaykumarmoluguri.medium.com/deep-learning-for-remote-sensing-advancements-in-earth-observation-b1495f070557?source=rss-557dc798f49e------2)
 - [Self-Supervised Learning in Computer Vision: Uncovering Visual Representations](https://vinaykumarmoluguri.medium.com/self-supervised-learning-in-computer-vision-uncovering-visual-representations-d9091c3fbac6?source=rss-557dc798f49e------2)
 - [Deep Reinforcement Learning in Real-Time Strategy Games](https://vinaykumarmoluguri.medium.com/deep-reinforcement-learning-in-real-time-strategy-games-b32794ac5372?source=rss-557dc798f49e------2)
 - [Explainable Deep Learning: Interpreting Complex Neural Network Decisions](https://vinaykumarmoluguri.medium.com/explainable-deep-learning-interpreting-complex-neural-network-decisions-85f33cec4f36?source=rss-557dc798f49e------2)
 - [Transformers in Deep Learning: Revolutionizing Natural Language Processing Tasks](https://vinaykumarmoluguri.medium.com/transformers-in-deep-learning-revolutionizing-natural-language-processing-tasks-cceecb7a74f7?source=rss-557dc798f49e------2)
-- [Deep Learning for Video Analysis: Applications in Surveillance and Entertainment](https://vinaykumarmoluguri.medium.com/deep-learning-for-video-analysis-applications-in-surveillance-and-entertainment-d4cb46ac84a9?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

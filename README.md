@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Data Pipelines: Advanced ETL Processes with Python](https://vinaykumarmoluguri.medium.com/automating-data-pipelines-advanced-etl-processes-with-python-111e2631aebf?source=rss-557dc798f49e------2)
 - [Building Scalable Microservices with Python and Docker](https://vinaykumarmoluguri.medium.com/building-scalable-microservices-with-python-and-docker-7f463fb647e7?source=rss-557dc798f49e------2)
 - [Developing a Real-time Data Processing System with Python and Apache Kafka](https://vinaykumarmoluguri.medium.com/developing-a-real-time-data-processing-system-with-python-and-apache-kafka-1e7c9c99eaa4?source=rss-557dc798f49e------2)
 - [Recurrent Neural Networks for Time Series Forecasting: Beyond Basic LSTM Models](https://vinaykumarmoluguri.medium.com/recurrent-neural-networks-for-time-series-forecasting-beyond-basic-lstm-models-f471ce0d3613?source=rss-557dc798f49e------2)
 - [Deep Learning for Remote Sensing: Advancements in Earth Observation](https://vinaykumarmoluguri.medium.com/deep-learning-for-remote-sensing-advancements-in-earth-observation-b1495f070557?source=rss-557dc798f49e------2)
-- [Self-Supervised Learning in Computer Vision: Uncovering Visual Representations](https://vinaykumarmoluguri.medium.com/self-supervised-learning-in-computer-vision-uncovering-visual-representations-d9091c3fbac6?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

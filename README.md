@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interactive Data Visualization with Python: Leveraging Dash and Plotly](https://vinaykumarmoluguri.medium.com/interactive-data-visualization-with-python-leveraging-dash-and-plotly-54feff36a9e4?source=rss-557dc798f49e------2)
 - [Building a Recommendation System from Scratch: Collaborative Filtering with Python](https://vinaykumarmoluguri.medium.com/building-a-recommendation-system-from-scratch-collaborative-filtering-with-python-b200e24c84c7?source=rss-557dc798f49e------2)
 - [Implementing Continuous Integration and Deployment &lpar;CI/CD&rpar; for Python Projects](https://vinaykumarmoluguri.medium.com/implementing-continuous-integration-and-deployment-ci-cd-for-python-projects-baf9d9e6caa2?source=rss-557dc798f49e------2)
 - [OpenAI Launches GPT-4 Turbo with New Enhancements &amp; Pricing](https://vinaykumarmoluguri.medium.com/openai-launches-gpt-4-turbo-with-new-enhancements-pricing-8d5581a84c42?source=rss-557dc798f49e------2)
 - [Automating Data Pipelines: Advanced ETL Processes with Python](https://vinaykumarmoluguri.medium.com/automating-data-pipelines-advanced-etl-processes-with-python-111e2631aebf?source=rss-557dc798f49e------2)
-- [Building Scalable Microservices with Python and Docker](https://vinaykumarmoluguri.medium.com/building-scalable-microservices-with-python-and-docker-7f463fb647e7?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

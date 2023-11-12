@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Exciting Future is Here: Get Ready for the GPT-4 Revolution in the Knowledge Economy](https://vinaykumarmoluguri.medium.com/the-exciting-future-is-here-get-ready-for-the-gpt-4-revolution-in-the-knowledge-economy-ce90c702efe4?source=rss-557dc798f49e------2)
 - [A Quantum Leap Forward: The Synergy of AI and Quantum Computing](https://vinaykumarmoluguri.medium.com/a-quantum-leap-forward-the-synergy-of-ai-and-quantum-computing-4c97fed8c6fa?source=rss-557dc798f49e------2)
 - [Interactive Data Visualization with Python: Leveraging Dash and Plotly](https://vinaykumarmoluguri.medium.com/interactive-data-visualization-with-python-leveraging-dash-and-plotly-54feff36a9e4?source=rss-557dc798f49e------2)
 - [Building a Recommendation System from Scratch: Collaborative Filtering with Python](https://vinaykumarmoluguri.medium.com/building-a-recommendation-system-from-scratch-collaborative-filtering-with-python-b200e24c84c7?source=rss-557dc798f49e------2)
 - [Implementing Continuous Integration and Deployment &lpar;CI/CD&rpar; for Python Projects](https://vinaykumarmoluguri.medium.com/implementing-continuous-integration-and-deployment-ci-cd-for-python-projects-baf9d9e6caa2?source=rss-557dc798f49e------2)
-- [OpenAI Launches GPT-4 Turbo with New Enhancements &amp; Pricing](https://vinaykumarmoluguri.medium.com/openai-launches-gpt-4-turbo-with-new-enhancements-pricing-8d5581a84c42?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

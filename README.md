@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI as the New Guardian: Revolutionizing Cybersecurity](https://vinaykumarmoluguri.medium.com/ai-as-the-new-guardian-revolutionizing-cybersecurity-751b582dc965?source=rss-557dc798f49e------2)
 - [Revolutionizing Healthcare: AI’s Groundbreaking Breakthrough in Personalized Medicine](https://vinaykumarmoluguri.medium.com/revolutionizing-healthcare-ais-groundbreaking-breakthrough-in-personalized-medicine-997631bf3fc7?source=rss-557dc798f49e------2)
 - [The Exciting Future is Here: Get Ready for the GPT-4 Revolution in the Knowledge Economy](https://vinaykumarmoluguri.medium.com/the-exciting-future-is-here-get-ready-for-the-gpt-4-revolution-in-the-knowledge-economy-ce90c702efe4?source=rss-557dc798f49e------2)
 - [A Quantum Leap Forward: The Synergy of AI and Quantum Computing](https://vinaykumarmoluguri.medium.com/a-quantum-leap-forward-the-synergy-of-ai-and-quantum-computing-4c97fed8c6fa?source=rss-557dc798f49e------2)
 - [Interactive Data Visualization with Python: Leveraging Dash and Plotly](https://vinaykumarmoluguri.medium.com/interactive-data-visualization-with-python-leveraging-dash-and-plotly-54feff36a9e4?source=rss-557dc798f49e------2)
-- [Building a Recommendation System from Scratch: Collaborative Filtering with Python](https://vinaykumarmoluguri.medium.com/building-a-recommendation-system-from-scratch-collaborative-filtering-with-python-b200e24c84c7?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

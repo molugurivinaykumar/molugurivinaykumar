@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Brain’s Echo: How Neuromorphic Computing is Mimicking Mind](https://vinaykumarmoluguri.medium.com/the-brains-echo-how-neuromorphic-computing-is-mimicking-mind-0e0d9a2e86f2?source=rss-557dc798f49e------2)
+- [Driverless Dreams: Inside the AI of Tomorrow’s Autonomous Cars](https://vinaykumarmoluguri.medium.com/driverless-dreams-inside-the-ai-of-tomorrows-autonomous-cars-62e5f3782dfb?source=rss-557dc798f49e------2)
 - [Smarter Than Smart: The AI-IoT Fusion Transforming Your World](https://vinaykumarmoluguri.medium.com/smarter-than-smart-the-ai-iot-fusion-transforming-your-world-eeae63e0a405?source=rss-557dc798f49e------2)
 - [AI as the New Guardian: Revolutionizing Cybersecurity](https://vinaykumarmoluguri.medium.com/ai-as-the-new-guardian-revolutionizing-cybersecurity-751b582dc965?source=rss-557dc798f49e------2)
 - [Revolutionizing Healthcare: AI’s Groundbreaking Breakthrough in Personalized Medicine](https://vinaykumarmoluguri.medium.com/revolutionizing-healthcare-ais-groundbreaking-breakthrough-in-personalized-medicine-997631bf3fc7?source=rss-557dc798f49e------2)
-- [The Exciting Future is Here: Get Ready for the GPT-4 Revolution in the Knowledge Economy](https://vinaykumarmoluguri.medium.com/the-exciting-future-is-here-get-ready-for-the-gpt-4-revolution-in-the-knowledge-economy-ce90c702efe4?source=rss-557dc798f49e------2)
-- [A Quantum Leap Forward: The Synergy of AI and Quantum Computing](https://vinaykumarmoluguri.medium.com/a-quantum-leap-forward-the-synergy-of-ai-and-quantum-computing-4c97fed8c6fa?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

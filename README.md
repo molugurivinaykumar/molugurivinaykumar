@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Unveiled: Demystifying the Black Box of Machine Minds](https://vinaykumarmoluguri.medium.com/ai-unveiled-demystifying-the-black-box-of-machine-minds-e588bb8d1f9b?source=rss-557dc798f49e------2)
 - [The Unseen Fixer: AI’s Invisible Hand in Industry Maintenance](https://vinaykumarmoluguri.medium.com/the-unseen-fixer-ais-invisible-hand-in-industry-maintenance-93e2478230d0?source=rss-557dc798f49e------2)
 - [The Brain’s Echo: How Neuromorphic Computing is Mimicking Mind](https://vinaykumarmoluguri.medium.com/the-brains-echo-how-neuromorphic-computing-is-mimicking-mind-0e0d9a2e86f2?source=rss-557dc798f49e------2)
 - [Driverless Dreams: Inside the AI of Tomorrow’s Autonomous Cars](https://vinaykumarmoluguri.medium.com/driverless-dreams-inside-the-ai-of-tomorrows-autonomous-cars-62e5f3782dfb?source=rss-557dc798f49e------2)
 - [Smarter Than Smart: The AI-IoT Fusion Transforming Your World](https://vinaykumarmoluguri.medium.com/smarter-than-smart-the-ai-iot-fusion-transforming-your-world-eeae63e0a405?source=rss-557dc798f49e------2)
-- [AI as the New Guardian: Revolutionizing Cybersecurity](https://vinaykumarmoluguri.medium.com/ai-as-the-new-guardian-revolutionizing-cybersecurity-751b582dc965?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

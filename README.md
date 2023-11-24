@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Medicine’s Crystal Ball: ML’s Role in Shaping Tomorrow’s Drugs](https://vinaykumarmoluguri.medium.com/medicines-crystal-ball-ml-s-role-in-shaping-tomorrow-s-drugs-d85bd3362ea0?source=rss-557dc798f49e------2)
 - [The Anomaly Hunters: ML’s Quest to Predict the Unpredictable](https://vinaykumarmoluguri.medium.com/the-anomaly-hunters-mls-quest-to-predict-the-unpredictable-4fdfbd99a067?source=rss-557dc798f49e------2)
 - [Privacy’s New Ally: The Rise of Federated Learning](https://vinaykumarmoluguri.medium.com/privacys-new-ally-the-rise-of-federated-learning-71f029303bb8?source=rss-557dc798f49e------2)
 - [Quantum Curiosity: Where Machine Learning Meets Quantum Mystery](https://vinaykumarmoluguri.medium.com/quantum-curiosity-where-machine-learning-meets-quantum-mystery-0535cd881e64?source=rss-557dc798f49e------2)
 - [Tuning into AI: The Secret World of Hyperparameter Mastery](https://vinaykumarmoluguri.medium.com/tuning-into-ai-the-secret-world-of-hyperparameter-mastery-764968396571?source=rss-557dc798f49e------2)
-- [Robots that Learn: The Vanguard of AI Robotics](https://vinaykumarmoluguri.medium.com/robots-that-learn-the-vanguard-of-ai-robotics-254d3d74b53b?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

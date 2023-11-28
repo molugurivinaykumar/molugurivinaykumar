@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Money Protectors: ML’s Fight Against Financial Fraud](https://vinaykumarmoluguri.medium.com/the-money-protectors-mls-fight-against-financial-fraud-4849445f4316?source=rss-557dc798f49e------2)
 - [From Theory to Action: The Journey of ML Models to Market](https://vinaykumarmoluguri.medium.com/from-theory-to-action-the-journey-of-ml-models-to-market-4a4a293dc803?source=rss-557dc798f49e------2)
 - [Fake It Till You Make It: Synthetic Data’s Role in AI Training](https://vinaykumarmoluguri.medium.com/fake-it-till-you-make-it-synthetic-datas-role-in-ai-training-dba7457b2edc?source=rss-557dc798f49e------2)
 - [Learning without Borders: The New Era of Transfer Learning](https://vinaykumarmoluguri.medium.com/learning-without-borders-the-new-era-of-transfer-learning-81ec7890382f?source=rss-557dc798f49e------2)
 - [Medicine’s Crystal Ball: ML’s Role in Shaping Tomorrow’s Drugs](https://vinaykumarmoluguri.medium.com/medicines-crystal-ball-ml-s-role-in-shaping-tomorrow-s-drugs-d85bd3362ea0?source=rss-557dc798f49e------2)
-- [The Anomaly Hunters: ML’s Quest to Predict the Unpredictable](https://vinaykumarmoluguri.medium.com/the-anomaly-hunters-mls-quest-to-predict-the-unpredictable-4fdfbd99a067?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Network Effect: Unraveling Data with Graph Analytics](https://vinaykumarmoluguri.medium.com/the-network-effect-unraveling-data-with-graph-analytics-ca8cd422861e?source=rss-557dc798f49e------2)
 - [AI Bot that can fill out Job Applications for you while you Sleep](https://vinaykumarmoluguri.medium.com/ai-bot-that-can-fill-out-job-applications-for-you-while-you-sleep-3ac32d0c7f1a?source=rss-557dc798f49e------2)
 - [The AI Problem Solver: Exploring Deep Reinforcement Learning](https://vinaykumarmoluguri.medium.com/the-ai-problem-solver-exploring-deep-reinforcement-learning-5b6abb3f73d5?source=rss-557dc798f49e------2)
 - [The Money Protectors: ML’s Fight Against Financial Fraud](https://vinaykumarmoluguri.medium.com/the-money-protectors-mls-fight-against-financial-fraud-4849445f4316?source=rss-557dc798f49e------2)
 - [From Theory to Action: The Journey of ML Models to Market](https://vinaykumarmoluguri.medium.com/from-theory-to-action-the-journey-of-ml-models-to-market-4a4a293dc803?source=rss-557dc798f49e------2)
-- [Fake It Till You Make It: Synthetic Data’s Role in AI Training](https://vinaykumarmoluguri.medium.com/fake-it-till-you-make-it-synthetic-datas-role-in-ai-training-dba7457b2edc?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

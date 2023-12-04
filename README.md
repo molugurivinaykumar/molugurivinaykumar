@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Now or Never: The Thrills of Real-time Data Processing](https://vinaykumarmoluguri.medium.com/now-or-never-the-thrills-of-real-time-data-processing-71775c77d0c2?source=rss-557dc798f49e------2)
 - [Timelines of Insight: The Evolution of Time Series Analysis](https://vinaykumarmoluguri.medium.com/timelines-of-insight-the-evolution-of-time-series-analysis-4303c1cc1135?source=rss-557dc798f49e------2)
 - [Seeing is Believing: The Art of Advanced Data Visualization](https://vinaykumarmoluguri.medium.com/seeing-is-believing-the-art-of-advanced-data-visualization-84869ebfe06c?source=rss-557dc798f49e------2)
 - [The Network Effect: Unraveling Data with Graph Analytics](https://vinaykumarmoluguri.medium.com/the-network-effect-unraveling-data-with-graph-analytics-ca8cd422861e?source=rss-557dc798f49e------2)
 - [AI Bot that can fill out Job Applications for you while you Sleep](https://vinaykumarmoluguri.medium.com/ai-bot-that-can-fill-out-job-applications-for-you-while-you-sleep-3ac32d0c7f1a?source=rss-557dc798f49e------2)
-- [The AI Problem Solver: Exploring Deep Reinforcement Learning](https://vinaykumarmoluguri.medium.com/the-ai-problem-solver-exploring-deep-reinforcement-learning-5b6abb3f73d5?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

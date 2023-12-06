@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Castles: The New Age of Data Warehousing](https://vinaykumarmoluguri.medium.com/cloud-castles-the-new-age-of-data-warehousing-723f30aab120?source=rss-557dc798f49e------2)
 - [Predicting Prosperity: Data Analytics in Frontier Markets](https://vinaykumarmoluguri.medium.com/predicting-prosperity-data-analytics-in-frontier-markets-6a51266f0142?source=rss-557dc798f49e------2)
 - [Now or Never: The Thrills of Real-time Data Processing](https://vinaykumarmoluguri.medium.com/now-or-never-the-thrills-of-real-time-data-processing-71775c77d0c2?source=rss-557dc798f49e------2)
 - [Timelines of Insight: The Evolution of Time Series Analysis](https://vinaykumarmoluguri.medium.com/timelines-of-insight-the-evolution-of-time-series-analysis-4303c1cc1135?source=rss-557dc798f49e------2)
 - [Seeing is Believing: The Art of Advanced Data Visualization](https://vinaykumarmoluguri.medium.com/seeing-is-believing-the-art-of-advanced-data-visualization-84869ebfe06c?source=rss-557dc798f49e------2)
-- [The Network Effect: Unraveling Data with Graph Analytics](https://vinaykumarmoluguri.medium.com/the-network-effect-unraveling-data-with-graph-analytics-ca8cd422861e?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

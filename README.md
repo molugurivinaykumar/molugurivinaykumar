@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [New Year Resolutions/Goals for Techies: 2024](https://vinaykumarmoluguri.medium.com/new-year-resolutions-goals-for-techies-2024-bc12270e083d?source=rss-557dc798f49e------2)
 - [Mood Metrics: The Advanced Science of Sentiment Analysis](https://vinaykumarmoluguri.medium.com/mood-metrics-the-advanced-science-of-sentiment-analysis-b628afac91d5?source=rss-557dc798f49e------2)
 - [Business by Numbers: Multidimensional Scaling for Profit](https://vinaykumarmoluguri.medium.com/business-by-numbers-multidimensional-scaling-for-profit-2d07827d4e51?source=rss-557dc798f49e------2)
 - [Edge of Insight: The New Frontier in Data Processing](https://vinaykumarmoluguri.medium.com/edge-of-insight-the-new-frontier-in-data-processing-de3f70922c30?source=rss-557dc798f49e------2)
 - [Cloud Castles: The New Age of Data Warehousing](https://vinaykumarmoluguri.medium.com/cloud-castles-the-new-age-of-data-warehousing-723f30aab120?source=rss-557dc798f49e------2)
-- [Predicting Prosperity: Data Analytics in Frontier Markets](https://vinaykumarmoluguri.medium.com/predicting-prosperity-data-analytics-in-frontier-markets-6a51266f0142?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Crack a Data/Business Analyst Interview in 2024](https://vinaykumarmoluguri.medium.com/how-to-crack-a-data-business-analyst-interview-in-2024-73d8257c851d?source=rss-557dc798f49e------2)
 - [19 Tiny Habits for Techies that can Transform Your Life in 2024](https://vinaykumarmoluguri.medium.com/19-tiny-habits-for-techies-that-can-transform-your-life-in-2024-02d60fe31a05?source=rss-557dc798f49e------2)
 - [Why you shouldn’t do Tech Certifications in 2024?](https://vinaykumarmoluguri.medium.com/why-you-shouldnt-do-tech-certifications-in-2024-5282f874e8a5?source=rss-557dc798f49e------2)
 - [2024: The AI Odyssey](https://vinaykumarmoluguri.medium.com/2024-the-ai-odyssey-44d4fbd31946?source=rss-557dc798f49e------2)
 - [New Year Resolutions/Goals for Techies: 2024](https://vinaykumarmoluguri.medium.com/new-year-resolutions-goals-for-techies-2024-bc12270e083d?source=rss-557dc798f49e------2)
-- [Mood Metrics: The Advanced Science of Sentiment Analysis](https://vinaykumarmoluguri.medium.com/mood-metrics-the-advanced-science-of-sentiment-analysis-b628afac91d5?source=rss-557dc798f49e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
